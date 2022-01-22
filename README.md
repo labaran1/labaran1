@@ -51,6 +51,8 @@ when and how. Hoping our relationship makes the world a better place. <br>
   </a>
 </p>
 
+[![Labaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=labaran1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **labaran1/labaran1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
