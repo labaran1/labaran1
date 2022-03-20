@@ -16,6 +16,7 @@ when and how. Hoping our relationship makes the world a better place. <br>
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adlabaran@@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-labaran-111358181/)
 [![adamalston.com](https://img.shields.io/badge/-LabaranLabs.com-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.labaranlabs.com/)
+![](https://komarev.com/ghpvc/?username=labaran1&label=PROFILE+VIEWS)
 
 **Languages I have used**
 
@@ -40,6 +41,7 @@ when and how. Hoping our relationship makes the world a better place. <br>
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter&logoColor=61DAFB)
+
 
 
 
