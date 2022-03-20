@@ -6,7 +6,9 @@
 
 **Fell in love with a dumb machine that does exactly what I instruct it to do, <br>
 when and how. Hoping our relationship makes the world a better place. <br>
-|| SOFTWARE ENGINEER**
+|| Software Engineer that focusses on  Design Systems, Web Accessibility and Serverless Technologies in Agile settings. When it comes to code, I'm a product person. I love building, and thinking about creating incredible experiences for users.**
+
+
 
 
 
