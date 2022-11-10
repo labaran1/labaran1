@@ -4,7 +4,7 @@ Hi 👋 My name is Labaran Adam Mohammed
 Software Engineer
 -----------------
 
-Fell in love with a dumb machine that does exactly what I instruct it to do, when and how. Hoping our relationship makes the world a better place. || Software Engineer that focuses on Design Systems, Web Accessibility and Serverless Technologies in Agile settings. When it comes to code, I'm a product person. I love building, and thinking about creating incredible experiences for users.
+Fell in love with a dumb machine that does exactly what I instruct it to do, when and how. Hoping our relationship makes the world a better place. || Software Engineer focusing on React, Vue, Design Systems, and Web Accessibility in Agile settings. When it comes to code, I'm a product person. I love building, and thinking about creating incredible experiences for users. I seek to bring my unique visioning ability and ‘code sense’ to the team I will work with.
 
 * ✉️  You can contact me at [adlabaran@gmail.com](mailto:adlabaran@gmail.com)
 
