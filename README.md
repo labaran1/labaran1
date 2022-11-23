@@ -4,7 +4,7 @@ Hi 👋 My name is Labaran Adam Mohammed
 Software Engineer
 -----------------
 
-Adam is a Software Engineer  experience in building software ranging from web applications to mobile applications, using current best practices and technologies to constantly improves tools and infrastructure to maximize productivity, minimize system downtime and quickly respond to the changing needs of the business. He primarily focuses on React, Web Accessibility, Design Systems, Nodejs and mobile with React Native. Adam loves building and thinking about creating incredible experiences for users while seeking to bring his unique visioning ability.
+Adam is a Software Engineer with experience in building software ranging from web applications to mobile applications, using current best practices and technologies to constantly improves tools and infrastructure to maximize productivity, minimize system downtime and quickly respond to the changing needs of the business. He primarily focuses on React, Web Accessibility, Design Systems, Nodejs and mobile with React Native. Adam loves building and thinking about creating incredible experiences for users while seeking to bring his unique visioning ability.
 
 
 
