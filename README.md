@@ -1,4 +1,4 @@
-Hi 👋 My name is Labaran Adam Mohammed
+Hi 👋 My name is Adam Labaran
 ======================================
 
 Software Engineer
