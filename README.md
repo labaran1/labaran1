@@ -12,7 +12,7 @@ His back-end experience is equally impressive. He has developed and tested highl
 
 
 
-* ✉️  You can contact me at [adlabaran@gmail.com](mailto:adlabaran@gmail.com)
+* ✉️  You can contact him at [adlabaran@gmail.com](mailto:adlabaran@gmail.com)
 
 <a href="https://www.twitter.com/labaranlabs" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/labaranlabs?logo=twitter&style=for-the-badge&color=84cc16&labelColor=000000"
